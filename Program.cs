@@ -23,6 +23,7 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+// Endpoint para verificar que la API está funcionando
 app.MapGet("/", () => "API de Cafetería funcionando correctamente");
 
 app.Run();
