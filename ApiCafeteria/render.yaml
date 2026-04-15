@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: api-cafeteria
+    runtime: dotnet
+    buildCommand: dotnet publish -c Release -o out
+    startCommand: dotnet out/ApiCafeteria.dll
+    plan: free

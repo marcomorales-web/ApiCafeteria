@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "nombre": "Espresso",
+    "precio": 40,
+    "imagen": "https://rossenham.com/wp-content/uploads/2022/05/cafe-espresso.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Espresso Doble",
+    "precio": 50,
+    "imagen": "https://cafeguias.com/wp-content/uploads/2022/02/Expreso-Doble..jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Americano",
+    "precio": 45,
+    "imagen": "https://www.cubaneandoconmario.com/wp-content/uploads/2017/01/Caf%C3%A9-americano.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Café de Olla",
+    "precio": 55,
+    "imagen": "https://tse4.mm.bing.net/th/id/OIP.h7zKZMqld7P1uRlQUoRkqwHaE8?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 5,
+    "nombre": "Capuccino",
+    "precio": 60,
+    "imagen": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+  },
+  {
+    "id": 6,
+    "nombre": "Latte",
+    "precio": 65,
+    "imagen": "https://cdn7.kiwilimon.com/recetaimagen/36986/960x640/46349.jpg.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Latte Vainilla",
+    "precio": 70,
+    "imagen": "https://mrcoffeelover.com/wp-content/uploads/2024/11/Decorated-Vanilla-Cafe-Latte.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Latte Caramelo",
+    "precio": 72,
+    "imagen": "https://images.unsplash.com/photo-1470337458703-46ad1756a187"
+  },
+  {
+    "id": 9,
+    "nombre": "Mocha",
+    "precio": 75,
+    "imagen": "https://th.bing.com/th/id/R.75facb7a90658045a25848fc9c7e5d95?rik=Inbp7OiYZ5F4MA&pid=ImgRaw&r=0"
+  },
+  {
+    "id": 10,
+    "nombre": "Chocolate Caliente",
+    "precio": 65,
+    "imagen": "https://chefgoya.b-cdn.net/wp-content/uploads/2024/08/Receta-Chocolate-Caliente.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Cold Brew",
+    "precio": 70,
+    "imagen": "https://images.unsplash.com/photo-1517701604599-bb29b565090c"
+  },
+  {
+    "id": 12,
+    "nombre": "Iced Americano",
+    "precio": 60,
+    "imagen": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735"
+  },
+  {
+    "id": 13,
+    "nombre": "Iced Latte",
+    "precio": 68,
+    "imagen": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+  },
+  {
+    "id": 14,
+    "nombre": "Flat White",
+    "precio": 68,
+    "imagen": "https://tse4.mm.bing.net/th/id/OIP.mA3RHrVCNAgC_HTbryEKCQHaFA?rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 15,
+    "nombre": "Macchiato",
+    "precio": 55,
+    "imagen": "https://tse4.mm.bing.net/th/id/OIP.c2f3aynOV6L6nI2ofYetMQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
+  }
+]
